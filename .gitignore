@@ -28,4 +28,3 @@ coverage
 *.sw?
 
 package-lock.json
-public
